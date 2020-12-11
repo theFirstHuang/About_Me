@@ -1,6 +1,6 @@
 ## My Name
 Which is unnecessary
-My homePage: [Click here](https://guides.github.com/features/mastering-markdown/)
+My homePage: [Click here](https://thefirsthuang.github.io)
 
 ### Bullshit coding demo
 
