@@ -1,6 +1,6 @@
 ## My Name
-Which is unnecessary. 
-My homePage: [Click here](https://thefirsthuang.github.io)
+Which is unnecessary.  
+My homePage: [Click here](https://thefirsthuang.github.io).  
 
 ### Bullshit coding demo
 
