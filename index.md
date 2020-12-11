@@ -23,7 +23,6 @@ Syntax highlighted code block
 
 [youtube](https://www.youtube.com/).  
 ![image1](https://upload.wikimedia.org/wikipedia/en/7/73/Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp)
-![image](https://drive.google.com/file/d/1DasGjCNRzOA1F9vnYCVJb1pMfD4vaYwf/view?usp=sharing)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
