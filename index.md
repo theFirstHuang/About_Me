@@ -22,7 +22,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [youtube](https://www.youtube.com/).  
-![Image](https://github.com/theFirstHuang/About_Me/blob/gh-pages/IMG_1569.heic)
+![Image](https://github.com/theFirstHuang/About_Me/blob/gh-pages/IMG_1569.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
