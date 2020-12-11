@@ -21,7 +21,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[youtube](https://www.youtube.com/) and ![Image](src)
+[youtube](https://www.youtube.com/).  
+![Image](https://github.com/theFirstHuang/About_Me/blob/gh-pages/IMG_1569.heic)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
