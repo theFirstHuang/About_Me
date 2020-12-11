@@ -22,10 +22,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [youtube](https://www.youtube.com/).  
-![Image](https://github.com/theFirstHuang/About_Me/blob/gh-pages/IMG_1569.png)
-![image](https://upload.wikimedia.org/wikipedia/en/7/73/Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp)
+![Image](./IMG_1569.png)
+![image1](https://upload.wikimedia.org/wikipedia/en/7/73/Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp)
 
-作者：wo
+作者：wo1
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
